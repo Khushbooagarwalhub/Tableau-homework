@@ -13,8 +13,8 @@ The total number of trips during the above time interval was 386,200
 ## Total number of rides per month
 Plots were created to show the number of rides per month
 
-<img width='300'
-     height='300'
+<img width='400'
+     height='400'
      src='plots and dashboards/Dashboard 2.png'>
 
 
