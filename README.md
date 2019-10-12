@@ -5,7 +5,7 @@ The following analysis were performed on the above data-
 
 ## Count of the trip from October 2018 to September 2019
 The total number of trips during the above time interval was 386,200
-![plots and dashboards/total number of rides.png]
+![alt text]()
 
 
 
