@@ -28,15 +28,20 @@ The graph indicates that there are more subscribers than normal customers  every
      height='500'
      src='plots and dashboards/ratio between customer and subscriber.png'>
      
-## Top 10 stations for start journey
+## Top 10 stations for start journey and end journey
 
 The graph shows the top 10 stations for start jouney
 
-<img width='400'
-     height='300'
-     src='plots and dashboards/top 10_start_journey.png'>
+<img width='400'                                                                                                                  
+     height='400'
+     src='plots and dashboards/top 10_start_journey.png'>         
      
  On hover over each circle shows the total number of records for each station
+ 
+ Similarly the graph below shows the top 10 stations for end journey
+ <img width='400'                                                                                                                  
+     height='400'
+     src='plots and dashboards/top_10_end_journey.png'> 
 
 
 
