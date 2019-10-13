@@ -54,7 +54,7 @@ We also know the type of subscriber for each bikeid from the graph
      
      
      
-#### There are also maps with bike stations for start and end journey.
+#### Maps with bike stations for start and end journey.
 A comparision of these maps show that there are more stations for end journey as compared to the start journey stations
 The color variation in the map shows the popuratity of the stations with the red ones more popular
 <img width='400'                                                                                                                  
@@ -62,7 +62,16 @@ The color variation in the map shows the popuratity of the stations with the red
      src='plots and dashboards/Map showing start and end stations.png'> 
      
      
+### Gender ratio plots 
+These plots show the ratio of male and female users between October 2018 and september 2019.1 and 2 represent male and female respectively.In the area plot it is seen that the number of male bike users is greater than the female bike users.But the trend of both male and female bike users is similar over the years/months sjowing a decline in summers.
 
+Again the box and whisker plot shows the median values,upper extreme and lower extreme for both male and female users.Te median for male users is 1.6 times greater than the female users.
+
+     
+<img width='400'                                                                                                                  
+     height='400'
+     src='plots and dashboards/Gender dashboard.png'> 
+     
      
 
 
