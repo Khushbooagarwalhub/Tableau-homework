@@ -34,7 +34,9 @@ The graph shows the top 10 stations for start jouney
 
 <img width='400'
      height='300'
-     src='plots and dashboards/top_10_start_journey.png'>
+     src='plots and dashboards/top 10_start_journey.png'>
+     
+ On hover over each circle shows the total number of records for each station
 
 
 
