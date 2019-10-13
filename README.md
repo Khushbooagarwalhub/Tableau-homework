@@ -16,8 +16,8 @@ The total number of trips during the above time interval was 386,200
 
 Plots were created to show the number of rides per month
 
-<img width='400'
-     height='200'
+<img width='300'
+     height='300'
      src='plots and dashboards/Dashboard 2.png'>
      
 ## Ratio between subscriber and customers yearwise/monthly
