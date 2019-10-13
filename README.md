@@ -42,6 +42,13 @@ The graph shows the top 10 stations for start jouney
  <img width='400'                                                                                                                  
      height='400'
      src='plots and dashboards/top_10_end_journey.png'> 
+     
+     
+### Trip duration for each bike id 
+similarly the total trip duration for each bike id was calculated showing the bike which was used the most 
+<img width='400'                                                                                                                  
+     height='400'
+     src='plots and dashboards/trip duration for each bike id.png'> 
 
 
 
