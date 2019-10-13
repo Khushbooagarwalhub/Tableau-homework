@@ -30,14 +30,12 @@ The graph indicates that there are more subscribers than normal customers  every
      
 ## Top 10 stations for start journey and end journey
 
-The graph shows the top 10 stations for start jouney
+The graph shows the top 10 stations for start journey.On hover over each circle shows the total number of records for each station
 
 <img width='400'                                                                                                                  
      height='400'
      src='plots and dashboards/top 10_start_journey.png'>         
      
- On hover over each circle shows the total number of records for each station
- 
  Similarly the graph below shows the top 10 stations for end journey
  <img width='400'                                                                                                                  
      height='400'
