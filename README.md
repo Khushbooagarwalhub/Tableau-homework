@@ -1,7 +1,7 @@
 # Tableau-homework
 The above assignment was performed on city bike system  data available at https://www.citibikenyc.com/system-data.
 For the above assignment the data chosen is between october 2018 to september 2019.
-The assignment consist of 12 visualisations in total,2 dashboards,1 story and 3 maps.There is a .twbx workbook with all the plots,please use the arrow sign at the bottom to view all the plots.
+The assignment consist of 12 visualisations in total,2 dashboards,1 story and 3 maps.There is a .twbx workbook with all the plots,please use the arrow sign at the bottom of the workbook to view all the plots.
 The following analysis were performed on the above data-
 
 
