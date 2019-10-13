@@ -21,6 +21,7 @@ Plots were created to show the number of rides per month
      src='plots and dashboards/Dashboard 2.png'>
      
 ## Ratio between subscriber and customers yearwise/monthly
+
 The graph indicates that there are more subscribers than normal customers  every year/month which could mean that people prefer to take an annual subscription.Also the total number of usertype declines during the summer months and increases in the winters.
 
 <img width='400'
