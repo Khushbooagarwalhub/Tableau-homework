@@ -61,9 +61,9 @@ The color variation in the map shows the popuratity of the stations with the red
      
      
 ### Gender ratio plots 
-These plots show the ratio of male and female users between October 2018 and september 2019.1 and 2 represent male and female respectively.In the area plot it is seen that the number of male bike users is greater than the female bike users.But the trend of both male and female bike users is similar over the years/months sjowing a decline in summers.
+These plots show the ratio of male and female users between October 2018 and september 2019.1 and 2 represent male and female respectively.In the area plot it is seen that the number of male bike users is greater than the female bike users.But the trend of both male and female bike users is similar over the years/months showing a decline in summers.
 
-Again the box and whisker plot shows the median values,upper extreme and lower extreme for both male and female users.Te median for male users is 1.6 times greater than the female users.
+Again the box and whisker plot shows the median values,upper extreme and lower extreme for both male and female users.The median for male users is 1.6 times greater than the female users.
 
      
 <img width='500'                                                                                                                  
