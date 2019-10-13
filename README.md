@@ -68,8 +68,8 @@ These plots show the ratio of male and female users between October 2018 and sep
 Again the box and whisker plot shows the median values,upper extreme and lower extreme for both male and female users.Te median for male users is 1.6 times greater than the female users.
 
      
-<img width='400'                                                                                                                  
-     height='400'
+<img width='500'                                                                                                                  
+     height='500'
      src='plots and dashboards/Gender dashboard.png'> 
      
      
