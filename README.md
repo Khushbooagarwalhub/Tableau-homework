@@ -56,7 +56,7 @@ We also know the type of subscriber for each bikeid from the graph
      
 #### There are also maps with bike stations for start and end journey.
 A comparision of these maps show that there are more stations for end journey as compared to the start journey stations
-
+The color variation in the map shows the popuratity of the stations with the red ones more popular
 <img width='400'                                                                                                                  
      height='400'
      src='plots and dashboards/Map showing start and end stations.png'> 
