@@ -75,8 +75,8 @@ Again the box and whisker plot shows the median values,upper extreme and lower e
 #### Dynamic station popularity map
 This map shows the change in popularity for each station by showing a change in colour and size.On clicking the play button on the right in the .twbx file one can see the popularity changes over the year.
 
-<img width='500'                                                                                                                  
-     height='500'
+<img width='900'                                                                                                                  
+     height='1000'
      src='plots and dashboards/Dynamic station popularity map.png'> 
      
 
